@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dav-alo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in CyberSecurity, CTF , Crypto , Pentesting , Bug Bounty , Cyber Threat Intellegince and Cryptos!!!
+- 🌱 I’m currently learning a Major in Cybersecurity and Networking
+- 💞️ I’m looking to collaborate on Major Cibersecurity Brands 
+- 📫 How to reach me davidalexram-hotmail.com
 
 <!---
 Dav-alo/Dav-alo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 Hey there 👋,
 
-Davs Here , Im a Security Engineer , Working as a Consultant , in here you can find some projects and my CTF Writeups . 
+Davs Here , Im a Security Engineer , Working as a Cibersecurity Consultant , in here you can find some projects and my CTF Writeups . 
  ---
 
 <p>
@@ -26,7 +26,4 @@ Davs Here , Im a Security Engineer , Working as a Consultant , in here you can f
 ### My Digital Garden 🌱
 
 <details>
- <summary><strong>other favorite posts</strong></summary>
- <a href=""><img width="400" src=""></a>
- <a href=""><img width="400" src=""></a>
- <a href=""><img width="400" src=""></a>
+
