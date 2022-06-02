@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dav-alo
 - 👀 I’m interested in CyberSecurity, CTF , Crypto , Pentesting , Bug Bounty , Cyber Threat Intellegince and Cryptos!!!
-- 🌱 I’m currently learning a Major in Cybersecurity and Networking
-- 💞️ I’m looking to collaborate on Major Cibersecurity Brands 
+- 🌱 I’m currently Studying a Major in Cybersecurity and Networking
+- 💞️ I’m looking to collaborate with Major Cibersecurity Brands 
 - 📫 How to reach me davidalexram-hotmail.com
 
 <!---
